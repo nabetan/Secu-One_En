@@ -1,6 +1,7 @@
 ﻿# Secu-One
 
-## 1  What is Secure-One?  It is a card game for learning effective defense measures against cyber attacks.
+## 1  What is Secure-One?
+It is a card game for learning effective defense measures against cyber attacks.
 Defense cards are utilized by “The CIS Critical Security Controls (CSC)” which is a 
 standard that summarizes effective defense measures against known attack methods.  
 
@@ -10,7 +11,8 @@ contain CSC controls to protect against cyber attack methods. Attack cards conta
 representative attack methods. There are two attack card sets, Type A and Type B, and 
 one of them is used in the game. The images of the cards are shown below.  
 
-## 3  Rule of the game  (1) Distribute 10 defence cards to each participant.  
+## 3  Rule of the game  
+(1) Distribute 10 defence cards to each participant.  
 (2) An arbitrary player becomes the leader of the game and draws a card from the attack 
 card set, and places it so that the front side can be seen.  
 (3) Players submit the hand-held defensive cards considered valid for the presented 
