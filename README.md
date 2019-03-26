@@ -47,7 +47,7 @@ point recording table.
 (13) The player who first submitted the defense card in the previous turn becomes the 
 leader and they repeat (2) - (12).  
 (14) The game termination condition is one of the following.  
- * There is no attack card.  
- * All players have no hands  
- * A certain period of time has passed since the game had been started.  
+ *There is no attack card.  
+ *All players have no hands  
+ *A certain period of time has passed since the game had been started.  
 (15) At the end of the game, the player with the highest point becomes the winner.  
